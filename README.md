@@ -693,10 +693,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use NeuralShrink in your research, please cite:
 
 ```bibtex
-@software{neuralshrink2023,
+@software{neuralshrink2025,
   author = {Royse, Chris},
   title = {NeuralShrink: Advanced Model Compression for LLMs},
-  year = {2023},
+  year = {2025},
   url = {https://github.com/ChrisRoyse/neuralshrink}
 }
 ```
